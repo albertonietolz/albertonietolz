@@ -1,16 +1,29 @@
-## Hi there 👋
+public class AlbertoNietoLozano {
 
-<!--
-**albertonietolz/albertonietolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  private final String role = "Software Developer";
 
-Here are some ideas to get you started:
+  private final String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript"
+    };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  private final String[] technologies = {
+        "Spring Boot",
+        "MySQL",
+        "Docker",
+        "HTML"
+    };
+
+  private final String[] tools = {
+        "Git",
+        "Postman",
+        "Android Studio"
+    };
+
+  public String repositories() {
+        return "functional projects and structured technical experimentation";
+    }
+}
+
+
