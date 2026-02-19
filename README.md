@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alberto Nieto Lozano</h1>
-<h3 align="center">Backend-focused software developer</h3>
+<h3 align="center">Backend-focused software developer from Spain</h3>
 
 - I’m currently working on **my Final Degree Project**
 - I’m currently learning **Spring Boot, Docker and backend architecture fundamentals**
