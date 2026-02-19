@@ -2,7 +2,7 @@
 <h3 align="center">Backend-focused software developer from Spain</h3>
 
 - I’m currently working on **my Final Degree Project**
-- I’m currently learning **Spring Boot, Docker and backend architecture fundamentals**
+- I’m currently deepening my knowledge of Spring Boot (JPA, Security, REST APIs), Docker, and backend testing with JUnit and Mockito**
 - Contact: **[nietolozanoalberto12@gmail.com](mailto:nietolozanoalberto12@gmail.com)**
 
 ---
