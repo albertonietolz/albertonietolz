@@ -24,7 +24,7 @@
 
 ---
 
-html<p align="center">
+<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/albertonietolz?cardType=level&theme=dark&preferLogin=false" height="150"/>
   </a>
