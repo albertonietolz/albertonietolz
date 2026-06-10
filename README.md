@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Alberto Nieto Lozano</h1>
 <h3 align="center">Software developer from Spain</h3>
 
-- I'm currently working on **my Final Degree Project** — a multitenant SaaS booking platform built with Java 21, Spring Boot and React
-- I'm currently doing my academic internship at Peninsular del Latón
+- Currently exploring new opportunities as a junior developer and open to work
+- Constantly building personal projects to expand my backend and frontend skills
 - I integrate AI tools into my development workflow for code generation, debugging and testing acceleration
 - Contact: **[nietolozanoalberto12@gmail.com](mailto:nietolozanoalberto12@gmail.com)**
 
