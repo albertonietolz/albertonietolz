@@ -6,10 +6,11 @@
 - I integrate AI tools into my development workflow for code generation, debugging and testing acceleration
 - Contact: **[nietolozanoalberto12@gmail.com](mailto:nietolozanoalberto12@gmail.com)**
 
+<p>Check out my bigger projects in the pinned section below — smaller ones are in the repositories tab!</p>
+
 ---
 
 <h3 align="left">Languages and Tools</h3>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
